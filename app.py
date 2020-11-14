@@ -111,7 +111,7 @@ fig_map = px.scatter_mapbox(coordenadas_velocidad,
 # Developing the prediction
 ###################################################
 
-X#test = pd.read_csv("data/X_test.csv")
+#Xtest = pd.read_csv("data/X_test.csv")
 #filename = 'data/rf_model.sav'
 #rf_v2 = pickle.load(open(filename, 'rb'))
 #Xtest_copy=Xtest.copy()
